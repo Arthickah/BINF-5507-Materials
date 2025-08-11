@@ -1,0 +1,211 @@
+drug_1,drug_2,similarity
+Methylphenidate,Methylphenidate Hydrochloride,0.972972972972973
+Methylphenidate,Amphetamine,0.1702127659574468
+Methylphenidate,Atomoxetine,0.21052631578947367
+Methylphenidate,Modafinil,0.23529411764705882
+Methylphenidate,Bupropion,0.1896551724137931
+Methylphenidate,Dasotraline,0.13559322033898305
+Methylphenidate,Solriamfetol,0.23076923076923078
+Methylphenidate,CHEMBL542556,0.972972972972973
+Methylphenidate,CHEMBL1907454,1.0
+Methylphenidate,CHEMBL1178927,0.918918918918919
+Methylphenidate,Diclofenac,0.19642857142857142
+Methylphenidate,Aspirin ,0.22448979591836735
+Methylphenidate,Serdexmethylphenidate,0.3698630136986301
+Methylphenidate,Dexmethylphenidate,0.972972972972973
+Methylphenidate Hydrochloride,Methylphenidate,0.972972972972973
+Methylphenidate Hydrochloride,Amphetamine,0.16666666666666666
+Methylphenidate Hydrochloride,Atomoxetine,0.22807017543859648
+Methylphenidate Hydrochloride,Modafinil,0.23076923076923078
+Methylphenidate Hydrochloride,Bupropion,0.1864406779661017
+Methylphenidate Hydrochloride,Dasotraline,0.13333333333333333
+Methylphenidate Hydrochloride,Solriamfetol,0.22641509433962265
+Methylphenidate Hydrochloride,CHEMBL542556,1.0
+Methylphenidate Hydrochloride,CHEMBL1907454,0.972972972972973
+Methylphenidate Hydrochloride,CHEMBL1178927,0.8947368421052632
+Methylphenidate Hydrochloride,Diclofenac,0.19298245614035087
+Methylphenidate Hydrochloride,Aspirin ,0.22
+Methylphenidate Hydrochloride,Serdexmethylphenidate,0.36486486486486486
+Methylphenidate Hydrochloride,Dexmethylphenidate,1.0
+Amphetamine,Methylphenidate,0.1702127659574468
+Amphetamine,Methylphenidate Hydrochloride,0.16666666666666666
+Amphetamine,Atomoxetine,0.20930232558139536
+Amphetamine,Modafinil,0.2777777777777778
+Amphetamine,Bupropion,0.18181818181818182
+Amphetamine,Dasotraline,0.13636363636363635
+Amphetamine,Solriamfetol,0.42424242424242425
+Amphetamine,CHEMBL542556,0.16666666666666666
+Amphetamine,CHEMBL1907454,0.1702127659574468
+Amphetamine,CHEMBL1178927,0.17391304347826086
+Amphetamine,Diclofenac,0.19047619047619047
+Amphetamine,Aspirin ,0.19444444444444445
+Amphetamine,Serdexmethylphenidate,0.136986301369863
+Amphetamine,Dexmethylphenidate,0.16666666666666666
+Atomoxetine,Methylphenidate,0.21052631578947367
+Atomoxetine,Methylphenidate Hydrochloride,0.22807017543859648
+Atomoxetine,Amphetamine,0.20930232558139536
+Atomoxetine,Modafinil,0.2
+Atomoxetine,Bupropion,0.11864406779661017
+Atomoxetine,Dasotraline,0.0847457627118644
+Atomoxetine,Solriamfetol,0.17307692307692307
+Atomoxetine,CHEMBL542556,0.22807017543859648
+Atomoxetine,CHEMBL1907454,0.21052631578947367
+Atomoxetine,CHEMBL1178927,0.21428571428571427
+Atomoxetine,Diclofenac,0.14285714285714285
+Atomoxetine,Aspirin ,0.2127659574468085
+Atomoxetine,Serdexmethylphenidate,0.15476190476190477
+Atomoxetine,Dexmethylphenidate,0.22807017543859648
+Modafinil,Methylphenidate,0.23529411764705882
+Modafinil,Methylphenidate Hydrochloride,0.23076923076923078
+Modafinil,Amphetamine,0.2777777777777778
+Modafinil,Atomoxetine,0.2
+Modafinil,Bupropion,0.15384615384615385
+Modafinil,Dasotraline,0.11538461538461539
+Modafinil,Solriamfetol,0.375
+Modafinil,CHEMBL542556,0.23076923076923078
+Modafinil,CHEMBL1907454,0.23529411764705882
+Modafinil,CHEMBL1178927,0.24
+Modafinil,Diclofenac,0.20833333333333334
+Modafinil,Aspirin ,0.21428571428571427
+Modafinil,Serdexmethylphenidate,0.16666666666666666
+Modafinil,Dexmethylphenidate,0.23076923076923078
+Bupropion,Methylphenidate,0.1896551724137931
+Bupropion,Methylphenidate Hydrochloride,0.1864406779661017
+Bupropion,Amphetamine,0.18181818181818182
+Bupropion,Atomoxetine,0.11864406779661017
+Bupropion,Modafinil,0.15384615384615385
+Bupropion,Dasotraline,0.12280701754385964
+Bupropion,Solriamfetol,0.1509433962264151
+Bupropion,CHEMBL542556,0.1864406779661017
+Bupropion,CHEMBL1907454,0.1896551724137931
+Bupropion,CHEMBL1178927,0.19298245614035087
+Bupropion,Diclofenac,0.20754716981132076
+Bupropion,Aspirin ,0.16326530612244897
+Bupropion,Serdexmethylphenidate,0.15476190476190477
+Bupropion,Dexmethylphenidate,0.1864406779661017
+Dasotraline,Methylphenidate,0.13559322033898305
+Dasotraline,Methylphenidate Hydrochloride,0.13333333333333333
+Dasotraline,Amphetamine,0.13636363636363635
+Dasotraline,Atomoxetine,0.0847457627118644
+Dasotraline,Modafinil,0.11538461538461539
+Dasotraline,Bupropion,0.12280701754385964
+Dasotraline,Solriamfetol,0.11320754716981132
+Dasotraline,CHEMBL542556,0.13333333333333333
+Dasotraline,CHEMBL1907454,0.13559322033898305
+Dasotraline,CHEMBL1178927,0.13793103448275862
+Dasotraline,Diclofenac,0.14814814814814814
+Dasotraline,Aspirin ,0.1
+Dasotraline,Serdexmethylphenidate,0.09195402298850575
+Dasotraline,Dexmethylphenidate,0.13333333333333333
+Solriamfetol,Methylphenidate,0.23076923076923078
+Solriamfetol,Methylphenidate Hydrochloride,0.22641509433962265
+Solriamfetol,Amphetamine,0.42424242424242425
+Solriamfetol,Atomoxetine,0.17307692307692307
+Solriamfetol,Modafinil,0.375
+Solriamfetol,Bupropion,0.1509433962264151
+Solriamfetol,Dasotraline,0.11320754716981132
+Solriamfetol,CHEMBL542556,0.22641509433962265
+Solriamfetol,CHEMBL1907454,0.23076923076923078
+Solriamfetol,CHEMBL1178927,0.23529411764705882
+Solriamfetol,Diclofenac,0.20408163265306123
+Solriamfetol,Aspirin ,0.23809523809523808
+Solriamfetol,Serdexmethylphenidate,0.16455696202531644
+Solriamfetol,Dexmethylphenidate,0.22641509433962265
+CHEMBL542556,Methylphenidate,0.972972972972973
+CHEMBL542556,Methylphenidate Hydrochloride,1.0
+CHEMBL542556,Amphetamine,0.16666666666666666
+CHEMBL542556,Atomoxetine,0.22807017543859648
+CHEMBL542556,Modafinil,0.23076923076923078
+CHEMBL542556,Bupropion,0.1864406779661017
+CHEMBL542556,Dasotraline,0.13333333333333333
+CHEMBL542556,Solriamfetol,0.22641509433962265
+CHEMBL542556,CHEMBL1907454,0.972972972972973
+CHEMBL542556,CHEMBL1178927,0.8947368421052632
+CHEMBL542556,Diclofenac,0.19298245614035087
+CHEMBL542556,Aspirin ,0.22
+CHEMBL542556,Serdexmethylphenidate,0.36486486486486486
+CHEMBL542556,Dexmethylphenidate,1.0
+CHEMBL1907454,Methylphenidate,1.0
+CHEMBL1907454,Methylphenidate Hydrochloride,0.972972972972973
+CHEMBL1907454,Amphetamine,0.1702127659574468
+CHEMBL1907454,Atomoxetine,0.21052631578947367
+CHEMBL1907454,Modafinil,0.23529411764705882
+CHEMBL1907454,Bupropion,0.1896551724137931
+CHEMBL1907454,Dasotraline,0.13559322033898305
+CHEMBL1907454,Solriamfetol,0.23076923076923078
+CHEMBL1907454,CHEMBL542556,0.972972972972973
+CHEMBL1907454,CHEMBL1178927,0.918918918918919
+CHEMBL1907454,Diclofenac,0.19642857142857142
+CHEMBL1907454,Aspirin ,0.22448979591836735
+CHEMBL1907454,Serdexmethylphenidate,0.3698630136986301
+CHEMBL1907454,Dexmethylphenidate,0.972972972972973
+CHEMBL1178927,Methylphenidate,0.918918918918919
+CHEMBL1178927,Methylphenidate Hydrochloride,0.8947368421052632
+CHEMBL1178927,Amphetamine,0.17391304347826086
+CHEMBL1178927,Atomoxetine,0.21428571428571427
+CHEMBL1178927,Modafinil,0.24
+CHEMBL1178927,Bupropion,0.19298245614035087
+CHEMBL1178927,Dasotraline,0.13793103448275862
+CHEMBL1178927,Solriamfetol,0.23529411764705882
+CHEMBL1178927,CHEMBL542556,0.8947368421052632
+CHEMBL1178927,CHEMBL1907454,0.918918918918919
+CHEMBL1178927,Diclofenac,0.17857142857142858
+CHEMBL1178927,Aspirin ,0.22916666666666666
+CHEMBL1178927,Serdexmethylphenidate,0.3561643835616438
+CHEMBL1178927,Dexmethylphenidate,0.8947368421052632
+Diclofenac,Methylphenidate,0.19642857142857142
+Diclofenac,Methylphenidate Hydrochloride,0.19298245614035087
+Diclofenac,Amphetamine,0.19047619047619047
+Diclofenac,Atomoxetine,0.14285714285714285
+Diclofenac,Modafinil,0.20833333333333334
+Diclofenac,Bupropion,0.20754716981132076
+Diclofenac,Dasotraline,0.14814814814814814
+Diclofenac,Solriamfetol,0.20408163265306123
+Diclofenac,CHEMBL542556,0.19298245614035087
+Diclofenac,CHEMBL1907454,0.19642857142857142
+Diclofenac,CHEMBL1178927,0.17857142857142858
+Diclofenac,Aspirin ,0.1956521739130435
+Diclofenac,Serdexmethylphenidate,0.13095238095238096
+Diclofenac,Dexmethylphenidate,0.19298245614035087
+Aspirin ,Methylphenidate,0.22448979591836735
+Aspirin ,Methylphenidate Hydrochloride,0.22
+Aspirin ,Amphetamine,0.19444444444444445
+Aspirin ,Atomoxetine,0.2127659574468085
+Aspirin ,Modafinil,0.21428571428571427
+Aspirin ,Bupropion,0.16326530612244897
+Aspirin ,Dasotraline,0.1
+Aspirin ,Solriamfetol,0.23809523809523808
+Aspirin ,CHEMBL542556,0.22
+Aspirin ,CHEMBL1907454,0.22448979591836735
+Aspirin ,CHEMBL1178927,0.22916666666666666
+Aspirin ,Diclofenac,0.1956521739130435
+Aspirin ,Serdexmethylphenidate,0.15789473684210525
+Aspirin ,Dexmethylphenidate,0.22
+Serdexmethylphenidate,Methylphenidate,0.3698630136986301
+Serdexmethylphenidate,Methylphenidate Hydrochloride,0.36486486486486486
+Serdexmethylphenidate,Amphetamine,0.136986301369863
+Serdexmethylphenidate,Atomoxetine,0.15476190476190477
+Serdexmethylphenidate,Modafinil,0.16666666666666666
+Serdexmethylphenidate,Bupropion,0.15476190476190477
+Serdexmethylphenidate,Dasotraline,0.09195402298850575
+Serdexmethylphenidate,Solriamfetol,0.16455696202531644
+Serdexmethylphenidate,CHEMBL542556,0.36486486486486486
+Serdexmethylphenidate,CHEMBL1907454,0.3698630136986301
+Serdexmethylphenidate,CHEMBL1178927,0.3561643835616438
+Serdexmethylphenidate,Diclofenac,0.13095238095238096
+Serdexmethylphenidate,Aspirin ,0.15789473684210525
+Serdexmethylphenidate,Dexmethylphenidate,0.36486486486486486
+Dexmethylphenidate,Methylphenidate,0.972972972972973
+Dexmethylphenidate,Methylphenidate Hydrochloride,1.0
+Dexmethylphenidate,Amphetamine,0.16666666666666666
+Dexmethylphenidate,Atomoxetine,0.22807017543859648
+Dexmethylphenidate,Modafinil,0.23076923076923078
+Dexmethylphenidate,Bupropion,0.1864406779661017
+Dexmethylphenidate,Dasotraline,0.13333333333333333
+Dexmethylphenidate,Solriamfetol,0.22641509433962265
+Dexmethylphenidate,CHEMBL542556,1.0
+Dexmethylphenidate,CHEMBL1907454,0.972972972972973
+Dexmethylphenidate,CHEMBL1178927,0.8947368421052632
+Dexmethylphenidate,Diclofenac,0.19298245614035087
+Dexmethylphenidate,Aspirin ,0.22
+Dexmethylphenidate,Serdexmethylphenidate,0.36486486486486486
